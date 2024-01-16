@@ -1,6 +1,3 @@
-let popSoundUrl = chrome.runtime.getURL('sounds/pop.mp3');
-let popSoundAudio = new Audio(popSoundUrl);
-
 function getAbsoluteURL(url) {
     var link = document.createElement("a");
     link.href = url;
@@ -18,6 +15,5 @@ window.onkeydown = function(event) {
         } else {
             return;
         }
-        popSoundAudio.play();
     }
 }
