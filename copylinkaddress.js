@@ -1,6 +1,6 @@
 function getAbsoluteURL(url) {
   const link = new URL(url);
-  return link.toString();
+  return encodeURI(link.toString());
 }
 
 window.onkeydown = (event) => {
