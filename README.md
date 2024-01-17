@@ -24,6 +24,5 @@ For my this bug is not really a problem, but for you it may be one: **_Hovering 
 ## Roadmap
 
 - find a cleaner solution for the above mentioned known issue
-- migrate to manifest v3
-- show a popup notification when copying a link address/text
-- add a proper notification when copied + settings to toggle notification on/off
+- add a proper notification when text is copied
+  - settings to toggle notification on/off
