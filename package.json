@@ -1,7 +1,7 @@
 {
   "name": "copy-url-on-hover",
   "version": "0.0.1",
-  "description": "This is an extension for both chromium-based and firefox-based browsers, so you can hover over a link and hit CTRL + C to copy the link address - or hit CTRL + C to copy the link text!",
+  "description": "This is an extension for both chromium-based and firefox-based browsers, so you can hover over a link and hit CTRL + S to copy the link address - or hit CTRL + S to copy the link text!",
   "main": "copylinkaddress.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

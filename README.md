@@ -1,6 +1,6 @@
 # Copy URL on Hover
 
-This is an extension for both chromium-based and firefox-based browsers, so you can hover over a link and hit CTRL + C to copy the link address - or hit CTRL + C to copy the link text!
+This is an extension for both chromium-based and firefox-based browsers, so you can hover over a link and hit CTRL + S to copy the link address - or hit CTRL + S to copy the link text!
 
 If you need to copy link addresses more than once, you know how annoying it is. You need to right-click, find the "Copy link address" menu item, and click it. I find this not very efficient and overly complicated, which is why I use this extension for copying links.
 

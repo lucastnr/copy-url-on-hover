@@ -13,7 +13,7 @@ window.onkeydown = (event) => {
     x: () => {
       navigator.clipboard.writeText(hoveredLink.text());
     },
-    c: () => {
+    s: () => {
       const hoveredHrefAttr = hoveredLink.attr("href");
       navigator.clipboard.writeText(getAbsoluteURL(hoveredHrefAttr));
     },
